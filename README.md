@@ -21,6 +21,10 @@ cool838ax use RP2040-Zero,run QMK_firmware.
 ## Buildguide
 
 soon later.
+
+### Builde log
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日も休みなので、午前中に新しく設計した、<a href="https://twitter.com/hashtag/cool838ax?src=hash&amp;ref_src=twsrc%5Etfw">#cool838ax</a> の基板に部品付けをした。次はファームウェアで動作確認です。<a href="https://twitter.com/hashtag/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89?src=hash&amp;ref_src=twsrc%5Etfw">#自作キーボード</a> <a href="https://t.co/PqHeLPwGb2">pic.twitter.com/PqHeLPwGb2</a></p>&mdash; m.ki (@0002ozlet) <a href="https://twitter.com/0002ozlet/status/1682569430923087872?ref_src=twsrc%5Etfw">July 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## Parts list
 
 
