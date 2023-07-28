@@ -8,8 +8,8 @@ cool838ax is an Alice layout.
 <br>
 cool838ax use RP2040-Zero,run QMK_firmware.
 <br>
-
-![](img/img00001.jpg)
+![](img/IMG_1747.jpeg)
+![](img/IMG_1748.jpeg)
 
 
 ## Firmware
