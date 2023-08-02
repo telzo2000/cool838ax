@@ -21,7 +21,7 @@ cool838ax use RP2040-Zero,run QMK_firmware.
 
 ## Buildguide
 
-soon later.
+https://github.com/telzo2000/cool838ax/blob/main/buildguide_for_cool838ax.md
 
 ### Builde log
 
