@@ -157,3 +157,4 @@ Welcome to the world of 38 keys.
 <br>
 38キーの世界へようこそ。
 <br>
+![](img/img00022.jpg)
