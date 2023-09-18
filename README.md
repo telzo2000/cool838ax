@@ -1,16 +1,18 @@
-# cool838ax
+# cool838ax / cool838axble
 
-cool838ax is a small keyboard.
+cool838ax / cool838axble is a small keyboard.
 <br>
 This keyboard has 38 keys.
 <br>
-cool838ax is an Alice layout.
+cool838ax / cool838axble is an Alice layout.
 <br>
 cool838ax use RP2040-Zero,run QMK_firmware.
 <br>
+cool838axble use Ble Micro Pro,run QMK_Firmware,and Bluetooth。
+
 ![](img/img00003.jpg)
 ![](img/img00002.jpg)
-![](img/img00001.jpg)
+![](img/img00022.jpg)
 
 
 ## Firmware
